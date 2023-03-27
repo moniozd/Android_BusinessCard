@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="logo_maersk"> Picture of logo Maersk</string>
+    <string name="try_button_text">Try</string>
+    <string name="about_us_button">About us</string>
+    <string name="customer_service_button">Customer service</string>
+    <string name="customer_service_picture">Customer service picture</string>
+    <string name="text1"><b><big>Integrated Container Logistics &amp; Supply Chain Services</big></b></string>
+    <string name="text2"><big><b>Headquarters office</b></big>\nMaersk A/S\nEsplanaden 50\n1263 Copenhagen K\nDenmark\n</string>
+    <string name="text3"><big><b>Customer service</b></big>\n+91 22617 20145\nEmail:glbconsalsd@maersk.com</string>
+    <string name="about_us_picture">Picture of About Us</string>
+    <string name="headquaters_picture">Picture of headquaters</string>
+
+    <string name="input_text_description">Today\'s goal, please</string>
+<!--    <string name="customer_service" />-->
+<!--    <string name="logo" />-->
+    <string name="text4">Information is key to make decisions on the go.\nThat’s why, our dedicated team of experts are here for you. Do reach out to us, should you need any intel from your cargo status to our solutions, and we’ll be happy to help you out.
+We’re only a click away!</string>
+
+</resources>
